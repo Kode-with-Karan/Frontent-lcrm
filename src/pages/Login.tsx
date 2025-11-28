@@ -76,7 +76,7 @@ export default function Login() {
             <div className="rounded-lg w-full h-full flex items-center justify-center overflow-hidden">
               <img
                 src="/Banner.png"
-                alt="KLYPE Brand"
+                alt="LinkedIn CRM Brand"
                 className="w-full h-full object-cover object-center rounded-lg"
               />
             </div>
@@ -88,7 +88,7 @@ export default function Login() {
                 <div className="lg:hidden mx-auto w-full h-[50px] rounded-lg overflow-hidden mb-4">
                   <img
                     src="/Banner.png"
-                    alt="KLYPE Brand"
+                    alt="LinkedIn CRM Brand"
                     className="w-full h-full object-cover object-center"
                   />
                 </div>
@@ -101,15 +101,15 @@ export default function Login() {
                         '"Paralucent", "Inter", "Segoe UI", system-ui, sans-serif',
                     }}
                   >
-                    KLYPE
+                    LinkedIn CRM
                   </span>
                 </div>
                 <div>
                   <h1 className="font-semibold text-black text-lg">
-                    Log in to KLYPE
+                    Log in to LinkedIn CRM
                   </h1>
                   <p className="text-sm text-gray-600 mt-1">
-                    Log in to your KLYPE account.
+                    Log in to your LinkedIn CRM account.
                   </p>
                 </div>
               </div>

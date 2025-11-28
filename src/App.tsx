@@ -149,7 +149,7 @@ function App() {
           }
         />
         <Route
-          path="/klype-chat"
+          path=""
           element={
             <ProtectedRoute>
               <KlypeChat />

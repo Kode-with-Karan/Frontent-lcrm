@@ -32,7 +32,7 @@ const HelpSupport = () => {
 
   const faqData = [
     {
-      question: "How do I get started with Klype AI?",
+      question: "How do I get started with LinkedIn CRM AI?",
       answer:
         "Getting started is easy! After signing up, you'll be taken to your dashboard where you can explore our features. Start with the 'Create a Post' tool to generate your first AI-powered content, or try our 'YouTube to Post' converter to transform existing content.",
     },
@@ -62,7 +62,7 @@ const HelpSupport = () => {
         "Our Content Calendar Automation schedules and plans your posts for optimal engagement. It analyzes your audience's activity patterns and suggests the best times to post, helping you maintain a consistent presence on LinkedIn.",
     },
     {
-      question: "How secure is my data with Klype AI?",
+      question: "How secure is my data with LinkedIn CRM AI?",
       answer:
         "We take data security seriously. All your information is encrypted and stored securely. We never share your content or personal data with third parties. Your LinkedIn credentials are handled through secure OAuth protocols.",
     },
@@ -86,7 +86,7 @@ const HelpSupport = () => {
   const quickLinks = [
     {
       title: "Getting Started Guide",
-      description: "Learn the basics of Klype AI",
+      description: "Learn the basics of LinkedIn CRM AI",
       icon: Book,
       link: "#",
     },
@@ -115,7 +115,7 @@ const HelpSupport = () => {
       title: "Email Support",
       description: "Get help via email within 24 hours",
       icon: Mail,
-      contact: "support@klype.ai",
+      contact: "support@LinkedIn CRM.ai",
       available: "24/7",
     },
     {
@@ -129,7 +129,7 @@ const HelpSupport = () => {
       title: "Priority Support",
       description: "Premium users get faster response",
       icon: Zap,
-      contact: "premium@klype.ai",
+      contact: "premium@LinkedIn CRM.ai",
       available: "24/7 - 4 hour response",
     },
   ];
@@ -163,7 +163,7 @@ const HelpSupport = () => {
           Frequently Asked Questions
         </h3>
         <p className="text-gray-400">
-          Find answers to common questions about Klype AI
+          Find answers to common questions about LinkedIn CRM AI
         </p>
       </div>
 

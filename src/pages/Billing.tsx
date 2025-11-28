@@ -229,7 +229,7 @@ const Billing = () => {
                   <li className="flex items-start space-x-3">
                     <Check className="w-4 h-4 text-green-400 mt-0.5 flex-shrink-0" />
                     <span className="text-gray-300 text-sm">
-                      Custom Klype AI for you & your organization
+                      Custom LinkedIn CRM AI for you & your organization
                     </span>
                   </li>
                   <li className="flex items-start space-x-3">

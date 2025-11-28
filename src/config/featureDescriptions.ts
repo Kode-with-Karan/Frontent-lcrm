@@ -13,7 +13,7 @@ export const featureDescriptions: { [key: string]: string } = {
   "/role-personalization":
     "Customize content based on user roles and audience segments for maximum impact.",
   "/klype-chat":
-    "Get personalized posts via KLYPE Agent - your AI-powered content creation assistant.",
+    "Get personalized posts via LinkedIn CRM Agent - your AI-powered content creation assistant.",
   "/voice-to-post":
     "Transform voice recordings into publish-ready posts with AI transcription and optimization.",
   "/profile-analyzer":

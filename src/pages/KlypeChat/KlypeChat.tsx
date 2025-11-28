@@ -20,10 +20,10 @@ const KlypeChat = () => {
       {/* Content area with proper padding */}
       <div className="w-full p-7">
         <div className="flex flex-col items-center justify-center min-h-[400px]">
-          <h2 className="text-3xl font-bold text-[#d9d9d9] mb-4">Klype Chat</h2>
+          <h2 className="text-3xl font-bold text-[#d9d9d9] mb-4">LinkedIn CRM Chat</h2>
           <p className="text-lg text-[#b0b0b0] max-w-xl text-center mb-8">
-            Welcome to Klype Chat! This feature will allow you to generate
-            personalized posts and interact with the KLYPE Agent. Stay tuned for
+            Welcome to LinkedIn CRM Chat! This feature will allow you to generate
+            personalized posts and interact with the LinkedIn CRM Agent. Stay tuned for
             updates.
           </p>          
           {/* Chat UI or coming soon message can go here */}

@@ -100,7 +100,7 @@ export default function Signup() {
           <div className="rounded-lg w-full h-full flex items-center justify-center overflow-hidden">
             <img
               src="/Banner.png"
-              alt="KLYPE Brand"
+              alt="LinkedIn CRM Brand"
               className="w-full h-full shadow-lg object-cover object-center rounded-lg"
             />
           </div>
@@ -112,7 +112,7 @@ export default function Signup() {
               <div className="lg:hidden mx-auto w-full h-[50px] rounded-lg overflow-hidden mb-4">
                 <img
                   src="/Banner.png"
-                  alt="KLYPE Brand"
+                  alt="LinkedIn CRM Brand"
                   className="w-full h-full object-cover object-center"
                 />
               </div>
@@ -125,12 +125,12 @@ export default function Signup() {
                       '"Paralucent", "Inter", "Segoe UI", system-ui, sans-serif',
                   }}
                 >
-                  KLYPE
+                  LinkedIn CRM
                 </span>
               </div>
               <div>
                 <h1 className="font-semibold text-black text-lg">
-                  Sign up for KLYPE
+                  Sign up for LinkedIn CRM
                 </h1>
                 <p className="text-sm text-gray-600 mt-1">
                   Create your account to get started

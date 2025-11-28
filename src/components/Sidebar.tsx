@@ -94,7 +94,7 @@ export default function Sidebar() {
       path: "/reddit-post-cloning",
       icon: Zap,
     },
-    { title: "Klype Chat", path: "/klype-chat", icon: SparklesIcon },
+    // { title: "LinkedIn CRM Chat", path: "/klype-chat", icon: SparklesIcon },
   ];
 
   // Quick actions
@@ -196,7 +196,7 @@ export default function Sidebar() {
           {/* Logo */}
           <div className="flex items-center justify-center mb-6">
             <h1 className="text-2xl font-bold text-white tracking-wide">
-              Klype
+              LinkedIn CRM
             </h1>
           </div>
 
